@@ -1,0 +1,4 @@
+2dof_robot_arm.mp4
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
